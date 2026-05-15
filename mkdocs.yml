@@ -75,12 +75,8 @@ nav:
   - 概率与统计:
     - 数理统计:
       - Cramér-Rao 下界: notes/math/cramer_rao.md
-  - 技术笔记:
-    - notes/index.md
-    - 编程语言:
-      - notes/lang/python.md
-      - notes/lang/cpp.md
-    - 工具:
-      - notes/tools/git.md
-      - notes/tools/linux.md
+  - 分析与方程:
+    - notes/analysis/index.md
+  - 理论计算机科学:
+    - notes/tcs/index.md
   - 关于: about.md
