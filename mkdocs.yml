@@ -73,9 +73,11 @@ extra:
 nav:
   - 主页: index.md
   - 概率与统计:
+    - 概率论: notes/math/probability.md
     - 数理统计:
       - Cramér-Rao 下界: notes/math/cramer_rao.md
       - 数理统计课程总结: notes/math/stats_summary.md
+    - 高等概率论: notes/math/advanced_probability.md
   - 分析与方程:
     - notes/analysis/index.md
   - 代数与数论:
