@@ -72,11 +72,11 @@ extra:
 
 nav:
   - 主页: index.md
+  - 概率与统计:
+    - notes/math/index.md
+    - notes/math/cramer_rao.md
   - 技术笔记:
     - notes/index.md
-    - 概率与统计:
-      - notes/math/index.md
-      - notes/math/cramer_rao.md
     - 编程语言:
       - notes/lang/python.md
       - notes/lang/cpp.md
