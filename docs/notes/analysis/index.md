@@ -4,4 +4,6 @@
 
 | 课程 | 学分 | 状态 |
 |------|------|------|
-| [数学分析III](analysis3_summary.md) | 3.5 | 大二秋冬 |
+| [数学分析III](analysis3_summary.md) | 5.0 | 大二秋冬 |
+| [实变函数](real_analysis_summary.md) | 3.5 | 大二春夏 |
+| [泛函分析（甲）](functional_analysis_summary.md) | 3.0 | （即将修读）大三秋冬 |
