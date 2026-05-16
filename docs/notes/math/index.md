@@ -4,6 +4,6 @@
 
 | 课程 | 学分 | 状态 |
 |------|------|------|
-| [概率论](probability.md) | 3.5 | 已修 |
-| [数理统计](stats_summary.md) | 4.0 | 已修 |
+| [概率论](probability.md) | 3.5 | 大二秋冬 |
+| [数理统计](stats_summary.md) | 4.0 | 大二春夏 |
 | [高等概率论](advanced_probability.md) | — | 自学 |
