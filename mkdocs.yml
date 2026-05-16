@@ -75,20 +75,20 @@ nav:
   - 概率与统计:
     - 概览: notes/math/index.md
     - 概率论:
-      - 概率论课程总结: notes/math/probability_summary.md
+      - 课程总结: notes/math/probability_summary.md
     - 数理统计:
-      - 数理统计课程总结: notes/math/stats_summary.md
+      - 课程总结: notes/math/stats_summary.md
       - Cramér-Rao 下界: notes/math/cramer_rao.md
     - 高等概率论:
-      - 高等概率论课程总结: notes/math/advanced_probability_summary.md
+      - 课程总结: notes/math/advanced_probability_summary.md
   - 分析与方程:
     - notes/analysis/index.md
     - 数学分析 III:
-      - 数学分析 III 课程总结: notes/analysis/analysis3_summary.md
+      - 课程总结: notes/analysis/analysis3_summary.md
     - 实变函数:
-      - 实变函数课程总结: notes/analysis/real_analysis_summary.md
+      - 课程总结: notes/analysis/real_analysis_summary.md
     - 泛函分析（甲）:
-      - 泛函分析（甲）课程总结: notes/analysis/functional_analysis_summary.md
+      - 课程总结: notes/analysis/functional_analysis_summary.md
   - 代数与数论:
     - notes/algebra/index.md
   - 理论计算机科学:
