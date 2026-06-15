@@ -91,6 +91,9 @@ nav:
       - 课程总结: notes/analysis/functional_analysis_summary.md
   - 代数与数论:
     - notes/algebra/index.md
+    - 初等数论:
+      - 提纲: notes/algebra/ent_outline.md
+      - 练习题: notes/algebra/ent_exercises.md
   - 理论计算机科学:
     - notes/tcs/index.md
   - 计算机系统架构:
